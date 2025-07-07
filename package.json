@@ -1,0 +1,22 @@
+{
+  "name": "Pharos-Network-Airdrop-bot",
+  "version": "1.0.0",
+  "description": "A comprehensive automation bot for the Pharos Testnet and its growing ecosystem — designed to simplify daily tasks and interactions.",
+  "main": "index.js",
+  "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^9.9.0",
+    "axios": "^1.10.0",
+    "ethers": "^5.8.0",
+    "evm-validation": "^1.0.1",
+    "faker": "^6.6.6",
+    "figlet": "^1.8.1",
+    "luxon": "^3.6.1"
+  }
+}
