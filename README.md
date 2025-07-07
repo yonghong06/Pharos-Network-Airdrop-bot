@@ -1,4 +1,4 @@
-# Pharos-Network-Airdrop-bot
+# Pharos Network Airdrop bot
 A comprehensive automation bot for the Pharos Testnet and its growing ecosystem — designed to simplify daily tasks and interactions.
 
 ## Requirements
